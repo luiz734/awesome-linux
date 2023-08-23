@@ -1,1 +1,1 @@
-# awsome-linux
+# awesome-linux
